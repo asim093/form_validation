@@ -74,3 +74,17 @@ button:hover{
     background-color: skyblue;
     color: black;
 }
+
+@media screen and (max-width: 776px) {
+    .sub-container{
+        width: 85%;
+       
+    }
+  }
+  
+  @media screen and (max-width: 998px) {
+    .sub-container{
+        width: 85%;
+        height: 90vh;
+    }
+  }
